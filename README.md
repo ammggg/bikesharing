@@ -7,6 +7,8 @@ The purpose of this analysis was to take a look at NYC Citibike data to explore 
 
 Results
 -------
+Link to dashboard: https://public.tableau.com/app/profile/andrew.garcia4594/viz/NYCCitibikeData_16272596794280/NYCCitibikeData
+
 1. Checkout Times for Users: this graph shows that 5 hours is the peak bike usage. 
 
 ![image](https://user-images.githubusercontent.com/82548977/126920574-10fa2bd5-cebe-43bd-a81a-93d3a3a31c0f.png)
